@@ -18,3 +18,5 @@ Responsive bilingual wedding invitation.
 
 ## Deployment
 Upload the contents of this folder to your static hosting project (for example, Vercel). `index.html` is self-contained for both profile photos.
+
+Latest update: Reception Telugu heading is “రిసెప్షన్”; removed the “With blessings and best wishes” closing line.
